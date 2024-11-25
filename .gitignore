@@ -1,2 +1,6 @@
 *secret*
 *.swp
+
+.terraform
+terraform.tfstate
+.terraform.lock.hcl
